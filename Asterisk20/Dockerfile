@@ -1,8 +1,8 @@
-# ========================================
+# ============================================
 # Asterisk With Siperb Registration
 # See details from Admin Control Panel below
-# Please see https://www.siperb.com/ fore more.
-# ========================================
+# Please see https://www.siperb.com/ for more.
+# ============================================
 
 FROM debian:bookworm
 
