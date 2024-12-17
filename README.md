@@ -1,6 +1,9 @@
 # Siperb Asterisk Dockerfile
 This docker file is for sampling the Siperb Inbound Connections. 
 
+>[!NOTE]
+>There is no Issues page for this repo, but you can discuss this in the [Siperb Discussion Forum](https://github.com/orgs/Siperb/discussions)
+
 More information here:
 [Siperb](https://www.siperb.com/)
 
